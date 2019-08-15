@@ -1,0 +1,10 @@
+C:\Users\fabio.santos\Documents\GitHub\c-_Fundamentos\Exercicios\Exercicios_C-Sharp\Exercicios_C-Sharp\bin\Debug\Exercicios_C-Sharp.exe.config
+C:\Users\fabio.santos\Documents\GitHub\c-_Fundamentos\Exercicios\Exercicios_C-Sharp\Exercicios_C-Sharp\bin\Debug\Exercicios_C-Sharp.exe
+C:\Users\fabio.santos\Documents\GitHub\c-_Fundamentos\Exercicios\Exercicios_C-Sharp\Exercicios_C-Sharp\bin\Debug\Exercicios_C-Sharp.pdb
+C:\Users\fabio.santos\Documents\GitHub\c-_Fundamentos\Exercicios\Exercicios_C-Sharp\Exercicios_C-Sharp\obj\Debug\Exercicios_C-Sharp.csprojResolveAssemblyReference.cache
+C:\Users\fabio.santos\Documents\GitHub\c-_Fundamentos\Exercicios\Exercicios_C-Sharp\Exercicios_C-Sharp\obj\Debug\Exercicios_C_Sharp.fmrExercicio1.resources
+C:\Users\fabio.santos\Documents\GitHub\c-_Fundamentos\Exercicios\Exercicios_C-Sharp\Exercicios_C-Sharp\obj\Debug\Exercicios_C_Sharp.Properties.Resources.resources
+C:\Users\fabio.santos\Documents\GitHub\c-_Fundamentos\Exercicios\Exercicios_C-Sharp\Exercicios_C-Sharp\obj\Debug\Exercicios_C-Sharp.csproj.GenerateResource.Cache
+C:\Users\fabio.santos\Documents\GitHub\c-_Fundamentos\Exercicios\Exercicios_C-Sharp\Exercicios_C-Sharp\obj\Debug\Exercicios_C-Sharp.exe
+C:\Users\fabio.santos\Documents\GitHub\c-_Fundamentos\Exercicios\Exercicios_C-Sharp\Exercicios_C-Sharp\obj\Debug\Exercicios_C-Sharp.pdb
+C:\Users\fabio.santos\Documents\GitHub\c-_Fundamentos\Exercicios\Exercicios_C-Sharp\Exercicios_C-Sharp\obj\Debug\Exercicios_C-Sharp.csproj.CoreCompileInputs.cache
