@@ -23,7 +23,7 @@ namespace Exercicios_C_Sharp
         {
             var valor1 = Convert.ToInt32(txtNumero1.Text);
             var valor2 = Convert.ToInt32(txtNumero2.Text);
-            int x;
+            int x; //Colocar um nome mais intuitivo por ex: int resultado
 
             x = ((valor1 * 9) / (87 - valor2));
 
