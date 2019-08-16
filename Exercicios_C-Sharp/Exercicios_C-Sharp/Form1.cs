@@ -25,12 +25,23 @@ namespace Exercicios_C_Sharp
 
             if (numero % 2 == 0)
             {
-                MessageBox.Show($"O {numero} é número primo");
+                lblNumero.Text = $"O {numero} é número primo";
             }
             else
-            {
-                MessageBox.Show($"O {numero} não é número primo");
+            {                
+                lblNumero.Text = $"O {numero} não é número primo";
             }
+        }
+
+        private void btnLimpar_Click(object sender, EventArgs e)
+        {
+            txtNumero.Text = string.Empty;
+            lblNumero.Text = string.Empty;
+        }
+
+        private void btnMenu_Click(object sender, EventArgs e)
+        {
+            new Exercicios().Show();
         }
     }
 }

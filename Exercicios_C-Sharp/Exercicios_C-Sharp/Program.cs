@@ -16,7 +16,7 @@ namespace Exercicios_C_Sharp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fmrExercicio1());
+            Application.Run(new Exercicios());
         }
     }
 }
